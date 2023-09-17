@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>714782016400-f98hqeoin76bpg3jn7ovoft8h7kq0jt2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.714782016400-f98hqeoin76bpg3jn7ovoft8h7kq0jt2</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>714782016400-k22fv6antgtq9q6f1kmnqimj4nbur33o.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBeTCgkfOEhutXRQJVMx9jOTp6dgxJbhHI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>714782016400</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ongi.app</string>
+	<key>PROJECT_ID</key>
+	<string>ongi-693ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>ongi-693ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:714782016400:ios:95ed01041ee693e592a915</string>
+</dict>
+</plist>
